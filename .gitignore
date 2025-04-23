@@ -1,0 +1,6 @@
+/Installer/
+.exe*
+.jar*
+.jre*
+/lib/
+/out/
